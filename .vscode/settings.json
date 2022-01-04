@@ -1,0 +1,6 @@
+{
+    "code-runner.executorMap": {
+
+        "python": "/Users/admin/.pyenv/versions/base_py/bin/python -u",
+    }
+}
